@@ -16,7 +16,7 @@ import com.jdbc.entity.Question;
 import com.jdbc.service.QuestionService;
 
 @RestController
-@CrossOrigin("https://java-full-stack.onrender.com/")
+@CrossOrigin("https://full-stack-project-8b5c7.web.app/")
 @RequestMapping("/question")
 public class QuestionController {
 	

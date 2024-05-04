@@ -16,7 +16,7 @@ import com.jdbc.entity.College;
 import com.jdbc.service.CollegeService;
 
 @RestController
-@CrossOrigin("https://java-full-stack.onrender.com/")
+@CrossOrigin("https://full-stack-project-8b5c7.web.app/")
 @RequestMapping("/college")
 public class CollegeController
 {

@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.jdbc.entity.Student;
 import com.jdbc.service.StudentService;
 
-@CrossOrigin("https://java-full-stack.onrender.com/")
+@CrossOrigin("https://full-stack-project-8b5c7.web.app/")
 @RestController
 @RequestMapping("/student")
 public class StudentController {

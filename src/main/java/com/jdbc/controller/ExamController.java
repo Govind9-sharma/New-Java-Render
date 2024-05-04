@@ -19,7 +19,7 @@ import com.jdbc.service.ExamService;
 import com.jdbc.service.QuestionService;
 
 //@CrossOrigin("http://localhost:5173/")
-@CrossOrigin("https://java-full-stack.onrender.com/")
+@CrossOrigin("https://full-stack-project-8b5c7.web.app/")
 @RestController
 @RequestMapping("/exam")
 public class ExamController {
